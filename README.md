@@ -1,6 +1,35 @@
-![스크린샷1](images/screenshot_1.png)
-![스크린샷1](images/screenshot_2.png)
-![스크린샷1](images/screenshot_3.png)
-![스크린샷1](images/screenshot_4.png)
-![스크린샷1](images/screenshot_5.png)
-![스크린샷1](images/screenshot_6.png)
+## calc
+---
+> oss 기말 프로젝트
+---
+저장소 : https://github.com/mummuk/2026oss
+
+| 팀원(역할)             | 업무                 |
+|-----------------------|---------------------|
+| 임제강(팀장 - 202207021)| main 브렌치 수정     |
+| 김성환(팀원 - 202307051)| dev/a 브렌치 수정    |
+| 한정헌(팀원 - 202217018)| dev/b 브렌치 수정    |
+| 김재관(팀원 - 202507039)| dev/c 브렌치 수정    |
+---
+# 문제해결 방법과 순서
+   1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. 
+   7. 
+
+# 중간과정 스크린샷
+---
+1. 팀원들의 각자 코드를 수정
+[스크린샷](images/main_1.png)
+[스크린샷](images/dev_a_1.png)
+[스크린샷](images/dev_b_1.png)
+[스크린샷](images/dev_c_1.png)
+
+# git flow : 결과 화면
+---
+
+# 프로그램 실행 결과 화면
+---
