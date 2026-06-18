@@ -24,29 +24,29 @@
 # 중간과정 스크린샷
 ---
 1. 팀원들의 각자 코드를 수정
-[스크린샷](images/main_1.png)
-[스크린샷](images/dev_a_1.png)
-[스크린샷](images/dev_b_1.png)
-[스크린샷](images/dev_c_1.png)
+![스크린샷](images/main_1.png)
+![스크린샷](images/dev_a_1.png)
+![스크린샷](images/dev_b_1.png)
+![스크린샷](images/dev_c_1.png)
 
 2. main 브랜치와 dev/a 브랜치 병합 중 충돌 발생
-[스크린샷](images/main_5.png)
+![스크린샷](images/main_5.png)
 
 3. main 브랜치의 calc.cpp의 내용을 살려 충돌 해결
-[스크린샷](images/main_6.png)
+![스크린샷](images/main_6.png)
 
 4. main 브랜치와 dev/b 브랜치 병합 완료
-[스크린샷](images/main_9.png)
+![스크린샷](images/main_9.png)
 
 5. main 브랜치와 dev/c 브랜치 병합 중 충돌 발생
-[스크린샷](images/main_11.png)
+![스크린샷](images/main_11.png)
 
 6. main 브랜치의 calc.cpp의 내용을 살려 충돌 해결
-[스크린샷](images/main_13.png)
+![스크린샷](images/main_13.png)
 
 
 # git flow : 결과 화면
-[스크린샷](images/git_flow.png)
+![스크린샷](images/git_flow.png)
 
 # 프로그램 실행 결과 화면
-[스크린샷](images/main_result.png)
+![스크린샷](images/main_result.png)
