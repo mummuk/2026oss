@@ -28,9 +28,9 @@ int main()
 		std::cin >> y;
 
 
-
 		printf("입력된 수 x[ %d ] y[ %d ]\n", x, y);
 		printf("add[ %d ] sub[ %d ] mul[ %d ] dive[ %d ] mod[ %d ]\n",
 			add(x, y), sub(x, y), mul(x, y), dive(x, y), mod(x, y));
 	}
+
 }
